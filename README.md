@@ -10,7 +10,7 @@
 </p>
 
 <a>
-    <img src="https://github.com/SayeedMohammadd/Sayeed/blob/main/img/Coding%20_Monochromatic.svg" alt="Illustration" width="55%" align="right" style="max-width:100% ;">
+    <img src="https://github.com/SayeedMohammadd/SayeedMohammadd/blob/main/img/Coding%20_Monochromatic.svg" alt="Illustration" width="55%" align="right" style="max-width:100% ;">
 </a>
 
 <hr></hr>
