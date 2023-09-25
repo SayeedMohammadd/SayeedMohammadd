@@ -1,5 +1,5 @@
 
-<h1>Hi 👋, I'm Sayeed Mohammad</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Sayeed+Mohammad)](https://git.io/typing-svg)
 
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=SayeedMohammadd&label=Profile%20views&color=0e75b6&style=flat" alt="Sayeed Mohammad" /> 
