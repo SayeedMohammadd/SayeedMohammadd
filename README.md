@@ -65,17 +65,21 @@ Believing that the way of heading forward with the surrounding ones is much bles
     <a href="https://www.youtube.com/c/UniversalGamers1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UniversalGamers1" height="30" width="40" /></a>
 </p>
 
-<hr> </hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SayeedMohammadd&show_icons=true&locale=en" alt="Sayeed Mohammad" /></p>
+## MY GITHUB STATS
 
-<hr> </hr>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SayeedMohammadd&show_icons=true&locale=en&layout=compact" alt="Sayeed Mohammad" /></p>
+[![Sayeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayeedMohammadd&show_icons=true&theme=blueberry&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SayeedMohammadd&theme=blueberry&PAT_1&show_icons=true&locale=en&layout=compact" alt="Sayeed Mohammad" /></p>
 
 <blockquote>
     <p><g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> <strong>Disclaimer:</strong> Most Used Languages doesn't indicate my skills or knowledge. It is calculated using the languages used in my public repositories.</p>
 </blockquote>
 
 <hr> </hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SayeedMohammadd&" alt="Sayeed Mohammad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SayeedMohammadd&theme=blueberry&PAT_1" alt="Sayeed Mohammad" /></p>
 
+<hr></hr>
 
+![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_Here,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
+&nbsp;
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
