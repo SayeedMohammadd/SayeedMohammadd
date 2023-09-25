@@ -19,7 +19,15 @@
   I'm **Sayeed Mohammad**. A **Full Stack Developer** in Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
   Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.😊
 
+  ### Contact Me:
 
+  [![Linkedin Badge](https://img.shields.io/badge/-Sayeed_Mohammad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayeedmohammad001/)](https://www.linkedin.com/in/sayeedmohammad001/)
+&nbsp;
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/20080596/sayeed-mohammad)](https://stackoverflow.com/users/20080596/sayeed-mohammad)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/SayeedM99821419)
+&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-sayeedmohammad.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayeedmohammad.com@gmail.com)](mailto:sayeedmohammad.com@gmail.com)
 
 <p align="left">
     <a href="https://twitter.com/SayeedM99821419" target="blank"><img src="https://img.shields.io/twitter/follow/SayeedM99821419?logo=twitter&style=for-the-badge" alt="SayeedM99821419" /></a>
