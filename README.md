@@ -34,7 +34,8 @@ Believing that the way of heading forward with the surrounding ones is much bles
 </a>
 
 <hr></hr>
-<h3 align="left">Languages and Tools:</h3>
+
+## SKILLS & TOOLS
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/-Java-d10221?style=flat-square&logo=java" alt="java" width="auto" height="25" /></a>
     <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php" alt="php" width="auto" height="25" /></a>
@@ -52,6 +53,19 @@ Believing that the way of heading forward with the surrounding ones is much bles
     <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/-postman-4a463f?style=flat-square&logo=postman" alt="postman" width="auto" height="25" /></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/-python-563D7C?style=flat-square&logo=python" alt="python" width="auto" height="25" /></a>
     <a href="https://svelte.dev" target="_blank"> <img src="https://img.shields.io/badge/-svelte-7a3000?style=flat-square&logo=svelte" alt="svelte" width="auto" height="25" /> </a>
+
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+&nbsp;
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+
 </p>
 
 <hr></hr>
