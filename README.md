@@ -10,6 +10,11 @@
 - 📫 Catch me on LinkedIn: [linkedin](https://www.linkedin.com/in/sayeedmohammad001/)
 - ⚡ Fun fact: Thinking more than enough will guide me to hell one day😉
 
+  ## 👦 ABOUT ME
+
+  I'm **Sayeed Mohammad**. A **Full Stack Developer** in Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
+  Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.😊
+
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=SayeedMohammadd&label=Profile%20views&color=0e75b6&style=flat" alt="Sayeed Mohammad" /> 
 </p>
