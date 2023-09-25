@@ -1,6 +1,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Sayeed+Mohammad)](https://git.io/typing-svg)
 
+## A Passionate Fullstack Developer
+
+- 💻 Currently studying React, Angular, Node and Spring Framework based materials
+- 💬 Mostly liking to share the knowledge about Web Application Development
+- 🥅 2022 Goals: Completed Professional Certifications
+- 📫 Catch me on LinkedIn: [linkedin](https://www.linkedin.com/in/sayeedmohammad001/)
+- ⚡ Fun fact: Thinking more than enough will guide me to hell one day😉
+
 <p align="right"> 
     <img src="https://komarev.com/ghpvc/?username=SayeedMohammadd&label=Profile%20views&color=0e75b6&style=flat" alt="Sayeed Mohammad" /> 
 </p>
