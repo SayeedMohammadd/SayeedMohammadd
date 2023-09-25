@@ -1,8 +1,12 @@
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=SayeedMohammadd&label=Profile%20views&color=0e75b6&style=flat" alt="Sayeed Mohammad" /> 
+</p>
+
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Sayeed+Mohammad)](https://git.io/typing-svg)
 
-## A Passionate Fullstack Developer
+## A Passionate Fullstack Developer 
 
 - 💻 Currently studying React, Angular, Node and Spring Framework based materials
 - 💬 Mostly liking to share the knowledge about Web Application Development
@@ -15,9 +19,7 @@
   I'm **Sayeed Mohammad**. A **Full Stack Developer** in Sri Lanka. I always try to compete with the world, which makes me a better person than I am yesterday.
   Believing that the way of heading forward with the surrounding ones is much blessing and can bring me the self-satisfaction which means the all I need.😊
 
-<p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=SayeedMohammadd&label=Profile%20views&color=0e75b6&style=flat" alt="Sayeed Mohammad" /> 
-</p>
+
 
 <p align="left">
     <a href="https://twitter.com/SayeedM99821419" target="blank"><img src="https://img.shields.io/twitter/follow/SayeedM99821419?logo=twitter&style=for-the-badge" alt="SayeedM99821419" /></a>
