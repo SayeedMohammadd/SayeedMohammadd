@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Sayeed+Mohammad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Sayeed+Mohammad;I'm+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## A Passionate Fullstack Developer 
 
