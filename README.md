@@ -30,7 +30,7 @@ Believing that the way of heading forward with the surrounding ones is much bles
 [![Gmail Badge](https://img.shields.io/badge/-sayeedmohammad.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayeedmohammad.com@gmail.com)](mailto:sayeedmohammad.com@gmail.com)
 
 <a>
-    <img src="https://github.com/SayeedMohammadd/SayeedMohammadd/blob/main/img/Coding%20_Monochromatic.svg" alt="Illustration" width="55%" align="right" style="max-width:100% ;">
+    <img src="https://github.com/SayeedMohammadd/SayeedMohammadd/blob/main/img/Coding%20_Monochromatic.svg" alt="Illustration" width="65%" align="right" style="max-width:100% ;">
 </a>
 
 <hr></hr>
