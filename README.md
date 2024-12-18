@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=SayeedMohammadd&label=Profile%20views&color=0e75b6&style=flat" alt="Sayeed Mohammad" /> 
 </p>
 
-<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="380">
+<img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="560">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Sayeed+Mohammad;I'm+Full+Stack+Developer)](https://git.io/typing-svg)
 
