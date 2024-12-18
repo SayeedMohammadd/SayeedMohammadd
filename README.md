@@ -5,6 +5,7 @@
 <img align='right' src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="160">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+there...+👋;I'm+Sayeed+Mohammad;I'm+Full+Stack+Developer)](https://git.io/typing-svg)
+<hr></hr>
 
 ## A Passionate Fullstack Developer 
 
@@ -29,13 +30,16 @@ Believing that the way of heading forward with the surrounding ones is much bles
 &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-sayeedmohammad.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayeedmohammad.com@gmail.com)](mailto:sayeedmohammad.com@gmail.com)
 
+
+
+## SKILLS & TOOLS
+
 <a>
     <img src="https://github.com/SayeedMohammadd/SayeedMohammadd/blob/main/img/Coding%20_Monochromatic.svg" alt="Illustration" width="65%" align="right" style="max-width:100% ;">
 </a>
-
+<hr></hr>
 <hr></hr>
 
-## SKILLS & TOOLS
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/-Java-d10221?style=flat-square&logo=java" alt="java" width="auto" height="25" /></a>
     <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-black?style=flat-square&logo=php" alt="php" width="auto" height="25" /></a>
