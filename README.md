@@ -38,7 +38,6 @@ Believing that the way of heading forward with the surrounding ones is much bles
     <img src="https://github.com/SayeedMohammadd/SayeedMohammadd/blob/main/img/Coding%20_Monochromatic.svg" alt="Illustration" width="65%" align="right" style="max-width:100% ;">
 </a>
 <hr></hr>
-<hr></hr>
 
 <p align="left">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/-Java-d10221?style=flat-square&logo=java" alt="java" width="auto" height="25" /></a>
